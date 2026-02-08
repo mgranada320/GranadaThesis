@@ -4,6 +4,6 @@ Repository containing large datasets, supplementary materials, and analysis outp
 
 ### Thesis #: (*pending*)
 
-Chapter 2: Expression data
+Chapter 2: Expression data (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE293147)
 
 Chapter 3: Evolution data
